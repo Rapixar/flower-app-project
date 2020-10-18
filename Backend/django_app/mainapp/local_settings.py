@@ -4,7 +4,7 @@ DATABASES = {
         'NAME': 'floweapp',
         'USER': 'floweapp',
         'PASSWORD': 'floweapp',
-        'HOST': '127.0.0.1',
-        'PORT': '5432'
+        'HOST': 'localhost',
+        'PORT': ''
     }
 }
