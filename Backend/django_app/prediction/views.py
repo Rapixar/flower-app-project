@@ -5,7 +5,7 @@ from rest_framework.views import APIView
 from prediction.apps import PredictionConfig
 import pandas as pd
 
-# Create your views here.
+
 # Class based view to predict based on IRIS model
 
 
