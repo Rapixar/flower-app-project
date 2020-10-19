@@ -1,2 +1,3 @@
 /pythonenv
-flowerAppProject.code
+*/.code-workspace
+/Backend/django_app/mainapp/__psycache__
